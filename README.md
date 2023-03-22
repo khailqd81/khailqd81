@@ -1,6 +1,6 @@
 <h2>Hi there, I'm Khải 👋</h2>
-<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=khailqd81&theme=tokyonight"/>
-<img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=khailqd81&hide_progress=true&theme=tokyonight"/>
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=khailqd81&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khailqd81&layout=compact&theme=tokyonight&hide_border=true&hide_progress=true" /></a> |
+| ------------- | ------------- |
 <h2 align="left">Languages, Frameworks, Platforms and Libraries</h2>
 <img align="left" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
 <img align="left"  src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1Ee" />
