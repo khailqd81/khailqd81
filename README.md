@@ -1,5 +1,5 @@
 ### Hi there, I'm Khải 👋
-<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=khailqd81&theme=tokyonight"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=khailqd81&theme=tokyonight"/>
 <img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=khailqd81&hide_progress=true&theme=tokyonight"/>
 <p width="100%">&nbsp;</p>
 <img align="left" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
